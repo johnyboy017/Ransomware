@@ -1,0 +1,15 @@
+C:\Users\joaov\OneDrive\Área de Trabalho\Ransomware\Ransomware\bin\Debug\net6.0\Ransomware.exe
+C:\Users\joaov\OneDrive\Área de Trabalho\Ransomware\Ransomware\bin\Debug\net6.0\Ransomware.deps.json
+C:\Users\joaov\OneDrive\Área de Trabalho\Ransomware\Ransomware\bin\Debug\net6.0\Ransomware.runtimeconfig.json
+C:\Users\joaov\OneDrive\Área de Trabalho\Ransomware\Ransomware\bin\Debug\net6.0\Ransomware.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\Ransomware\Ransomware\bin\Debug\net6.0\Ransomware.pdb
+C:\Users\joaov\OneDrive\Área de Trabalho\Ransomware\Ransomware\obj\Debug\net6.0\Ransomware.csproj.AssemblyReference.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\Ransomware\Ransomware\obj\Debug\net6.0\Ransomware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\OneDrive\Área de Trabalho\Ransomware\Ransomware\obj\Debug\net6.0\Ransomware.AssemblyInfoInputs.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\Ransomware\Ransomware\obj\Debug\net6.0\Ransomware.AssemblyInfo.cs
+C:\Users\joaov\OneDrive\Área de Trabalho\Ransomware\Ransomware\obj\Debug\net6.0\Ransomware.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\Ransomware\Ransomware\obj\Debug\net6.0\Ransomware.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\Ransomware\Ransomware\obj\Debug\net6.0\refint\Ransomware.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\Ransomware\Ransomware\obj\Debug\net6.0\Ransomware.pdb
+C:\Users\joaov\OneDrive\Área de Trabalho\Ransomware\Ransomware\obj\Debug\net6.0\Ransomware.genruntimeconfig.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\Ransomware\Ransomware\obj\Debug\net6.0\ref\Ransomware.dll
